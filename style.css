@@ -72,7 +72,8 @@ input {
   background-color: rgb(242, 235, 235);
 }
 
-button {
+button,
+.header-login-a {
   padding: 5px 10px;
   border: none;
   border-radius: 3px;
@@ -93,11 +94,6 @@ button {
   justify-content: space-between;
   gap: 20px;
   align-items: center;
-}
-
-.header-login-a {
-  text-decoration: none;
-  color: #fff;
 }
 
 .index-login {
