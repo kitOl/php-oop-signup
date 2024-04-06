@@ -12,7 +12,7 @@
 <body>
     <header>
         <nav>
-            <div >
+            <div>
                 <h3>OLEG KITAEV</h3>
                 <ul class="menu-main">
                     <li><a href="index.php">HOME</a></li>
